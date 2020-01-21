@@ -1502,6 +1502,9 @@ input, select, textarea {
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 30px;
 						}
+			.row h3{
+					margin: 2% 0;
+				}
 
 		}
 
